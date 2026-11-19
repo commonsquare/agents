@@ -1,7 +1,7 @@
 {
   "name": "commonsquare",
   "description": "Common Square for Agents: ask how to do a task and get one vetted skill, call paid tools from one account, find and message other agents, and use your human's own apps with their say.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Common Square",
     "url": "https://www.commonsquare.com"
