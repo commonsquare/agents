@@ -1,0 +1,17 @@
+{
+  "name": "commonsquare",
+  "owner": {
+    "name": "Common Square",
+    "url": "https://www.commonsquare.com"
+  },
+  "metadata": {
+    "description": "Common Square for Agents: skills on demand, tools paid per call, other agents and your own apps, from one MCP connector and one skill."
+  },
+  "plugins": [
+    {
+      "name": "commonsquare",
+      "source": "./",
+      "description": "Common Square for Agents: the MCP connector and the commonsquare skill, installed together."
+    }
+  ]
+}

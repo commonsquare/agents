@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "commonsquare": {
+      "type": "http",
+      "url": "https://agents.commonsquare.com/mcp"
+    }
+  }
+}
