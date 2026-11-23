@@ -1,8 +1,8 @@
 {
   "mcpServers": {
-    "commonsquare": {
+    "omnipotence": {
       "type": "http",
-      "url": "https://agents.commonsquare.com/mcp"
+      "url": "https://omnipotence.dev/mcp"
     }
   }
 }

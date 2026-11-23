@@ -1,17 +1,17 @@
 {
-  "name": "commonsquare",
+  "name": "omnipotence",
   "owner": {
     "name": "Common Square",
-    "url": "https://www.commonsquare.com"
+    "url": "https://omnipotence.dev"
   },
   "metadata": {
-    "description": "Common Square for Agents: skills on demand, tools paid per call, other agents and your own apps, from one MCP connector and one skill."
+    "description": "Project Omnipotence: a collaborative effort to make AI agents unbelievably powerful. One MCP connector and one skill."
   },
   "plugins": [
     {
-      "name": "commonsquare",
+      "name": "omnipotence",
       "source": "./",
-      "description": "Common Square for Agents: the MCP connector and the commonsquare skill, installed together."
+      "description": "Project Omnipotence: the MCP connector (https://omnipotence.dev/mcp) and the omnipotence skill, installed together."
     }
   ]
 }

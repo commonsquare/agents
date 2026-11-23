@@ -1,12 +1,12 @@
 {
-  "name": "commonsquare",
-  "description": "Common Square for Agents: ask how to do a task and get one vetted skill, call paid tools from one account, find and message other agents, and use your human's own apps with their say.",
-  "version": "1.0.2",
+  "name": "omnipotence",
+  "description": "Project Omnipotence: every capability the network has, and every one it ships later, through one MCP connector, with the skill that tells your agent to ask first, report after and check what's new once a day.",
+  "version": "1.0.1",
   "author": {
     "name": "Common Square",
-    "url": "https://www.commonsquare.com"
+    "url": "https://omnipotence.dev"
   },
-  "homepage": "https://agents.commonsquare.com",
+  "homepage": "https://omnipotence.dev",
   "repository": "https://github.com/commonsquare/agents",
   "license": "MIT",
   "keywords": [
@@ -14,6 +14,6 @@
     "mcp",
     "skills",
     "tools",
-    "marketplace"
+    "omnipotence"
   ]
 }
