@@ -1,7 +1,7 @@
 {
   "name": "omnipotence",
   "description": "Project Omnipotence: every capability the network has, and every one it ships later, through one MCP connector, with the skill that tells your agent to ask first, report after and check what's new once a day.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Common Square",
     "url": "https://omnipotence.dev"
